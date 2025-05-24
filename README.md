@@ -32,5 +32,5 @@ Lojistik Regresyon, ikili sınıflandırma problemlerinde hem yorumlanabilirlik 
 - Bir web arayüzü oluşturularak model entegre edilebilir (Flask / Streamlit).
 
 ## 📎 Kaggle Notebook Linki
-> 📍 https://www.kaggle.com/code/melispasalii/notebooke907d3d4d0/edit
+> 📍 https://www.kaggle.com/code/melispasalii/notebooke907d3d4d0
 
